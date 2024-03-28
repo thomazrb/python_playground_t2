@@ -15,3 +15,6 @@ print("Nome: {0} Idade {1}, Mas a idade do {0} é {1}, ou seria {1}?".format(nom
 
 
 print(f"Nome: {nome} Idade {idade}")
+
+print("teste 1", end=" ")
+print("teste 2")
