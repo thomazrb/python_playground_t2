@@ -1,2 +1,6 @@
-# python_playground_t2
-Playground da Turma 2
+# Python Playground T2
+
+Playground pra gente brincar com python
+
+* teste
+* teste 2
