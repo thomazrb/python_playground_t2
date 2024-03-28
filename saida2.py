@@ -14,4 +14,4 @@ print(type(out2))
 print("Nome: {0} Idade {1}, Mas a idade do {0} é {1}, ou seria {1}?".format(nome, idade))
 
 
-
+print(f"Nome: {nome} Idade {idade}")
